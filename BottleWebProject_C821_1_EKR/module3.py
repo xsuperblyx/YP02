@@ -3,8 +3,10 @@ import re
 import pdb
 import json
 import random
+from collections import defaultdict
 @post ('/var3', method = 'post')
-def vshiriny():
-    return ('метод Краскала')
+
+def kraskal():
+    return ('Kruskal')
 
 
