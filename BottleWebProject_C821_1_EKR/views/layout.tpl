@@ -24,6 +24,7 @@
                     <li><a href="/var1">{{vr1}}</a></li>
                     <li><a href="/var2">{{vr2}}</a></li>
                     <li><a href="/var3">{{vr3}}</a></li>
+                    <li><a href="/about">{{abb}}</a></li>
                 </ul>
             </div>
         </div>
